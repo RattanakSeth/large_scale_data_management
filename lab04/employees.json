@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "dept_id": 101,
+        "salary": 60000
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "dept_id": 102,
+        "salary": 75000
+    },
+    {
+        "id": 3,
+        "name": "Cathy",
+        "dept_id": 101,
+        "salary": 65000
+    },
+    {
+        "id": 4,
+        "name": "David",
+        "dept_id": 103,
+        "salary": 80000
+    },
+    {
+        "id": 5,
+        "name": "Eve",
+        "dept_id": 102,
+        "salary": 70000
+    }
+]
